@@ -11,7 +11,7 @@ matplotlib.use("Agg")
 
 # from stable_baselines3.common import logger
 
-
+i = 50
 class StockTradingEnv(gym.Env):
     """A stock trading environment for OpenAI gym"""
 
